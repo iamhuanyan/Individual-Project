@@ -1,4 +1,4 @@
-//冒泡排序法1
+//冒泡排序法
 public class Maopao {
     public static void main(String[] args) {
         int[] array = {99,52,64,51,25,64,74,15,34,26,58};
@@ -26,4 +26,3 @@ public class Maopao {
         return array;
     }
 }
-//a
